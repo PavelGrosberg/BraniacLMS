@@ -1,2 +1,3 @@
 # BraniacLMS
-Learning management system of new age
+
+Современная платформа для обучения. Прогрессивный взгляд на простые вещи.
